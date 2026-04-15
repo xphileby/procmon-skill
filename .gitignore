@@ -1,0 +1,24 @@
+# Procmon captures and exports
+*.pml
+*.pmc
+*.pmb
+*.csv
+
+# Procmon binaries (don't redistribute)
+Procmon.exe
+Procmon64.exe
+Procmon64a.exe
+Eula.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
